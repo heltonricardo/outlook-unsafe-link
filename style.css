@@ -1,0 +1,17 @@
+body {
+  background-color: #666;
+}
+
+textarea {
+  height: 135px;
+  resize: none;
+}
+
+span {
+  min-width: 8rem;
+}
+
+.card {
+  width: 95%;
+  max-width: 40rem;
+}
